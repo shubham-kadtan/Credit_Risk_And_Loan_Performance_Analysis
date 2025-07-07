@@ -1,6 +1,6 @@
 # Credit Risk & Loan Performance Analysis
 
-A data-driven project to identify borrower segments with higher default risk and uncover profitable lending strategies using SQL and Excel.
+A data-driven project to identify borrower segments with higher default risk and uncover profitable lending strategies using SQL and Excel..
 
 ---
 
