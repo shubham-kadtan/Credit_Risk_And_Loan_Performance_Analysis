@@ -63,6 +63,6 @@ This project analyzes over **38,000 loan records** to extract insights into cred
 
 ## 📁 Report
 
-[Download Full Project Report (PDF)](Credit_Risk_Loan_Performance_Analysis.pdf)
+[Download Full Project Report (PDF)](Credit%20Risk%20Loan%20Performance%20Analysis.pdf)
 
 ---
