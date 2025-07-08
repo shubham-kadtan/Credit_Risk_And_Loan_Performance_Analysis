@@ -1,3 +1,4 @@
+create database loans;
 use loans;
 
 select * from loan_data;
